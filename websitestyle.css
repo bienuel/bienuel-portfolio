@@ -199,7 +199,7 @@ nav ul li a:hover::after{
     text-align: justify;
 }
 .aff-col1 h2{
-    margin: 5px ;
+    margin-bottom: 5px ;
 }
 .aff-col1 h4{
     margin-top: 5px;
