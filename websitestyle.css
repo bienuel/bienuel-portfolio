@@ -425,6 +425,12 @@ nav .fas{
     .headertext h1{
         font-size: 40px;
     }
+    .headertext .desphone{
+        margin-right: 20px;
+        margin-top: 10px;
+        font-size: 25px;
+
+    }
     nav .fas{
         display: block;
         font-size: 30px;
